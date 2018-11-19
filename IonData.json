@@ -1,0 +1,9 @@
+{
+  "fieldList": [
+    "Position",
+    "VMQBidSize",
+    "VMQAskSize",
+    "VMQAskPrice",
+    "VMQBidPrice"
+  ]
+}
